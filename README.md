@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lkbonev72
+ry- 👋 Hi, I’m @lkbonev72
 - 👀 I’m interested in computer science, programing, brain games
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on making a good eLearning app
 - 📫 How to reach me ...
 
 <!---
